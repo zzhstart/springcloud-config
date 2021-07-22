@@ -2,4 +2,4 @@ config:
   info: "master branch ,springcloud-config/config-test.yaml version=1.0"
 #项目端口
 server:
-  port: 3344
+  port: 3355
